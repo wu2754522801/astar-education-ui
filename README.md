@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://gitee.com/wy521a/astar-education" target="_blank">
- <img src="./demo/logo/logo.png" height="80"/>
+ <img src="http://img.astarcloud.top/202502130918875.png" height="80"/>
 <a/>
 </p>
 
@@ -92,15 +92,15 @@ docker-compose up -d
 * 学生考试系统
 <table>
     <tr>
-        <td><img src="./demo/xsshouye.png"/></td>
-        <td><img src="./demo/xskaoshi.png"/></td>
+        <td><img src="http://img.astarcloud.top/202502130918467.png"/></td>
+        <td><img src="http://img.astarcloud.top/202502130918375.png"/></td>
     </tr>
     <tr>
-        <td><img src="./demo/xskaoshixiangqing.png"/></td>
-        <td><img src="./demo/xskaoshijilu.png"/></td>
+        <td><img src="http://img.astarcloud.top/202502130918887.png"/></td>
+        <td><img src="http://img.astarcloud.top/202502130918381.png"/></td>
     </tr>
     <tr>
-        <td><img src="./demo/xscuotiji.png"/></td>
+        <td><img src="http://img.astarcloud.top/202502130918499.png"/></td>
     </tr>
 </table>
 
@@ -108,12 +108,12 @@ docker-compose up -d
 
 <table>
     <tr>
-        <td><img src="./demo/shijuan.png"/></td>
-        <td><img src="./demo/tiku.png"/></td>
+        <td><img src="http://img.astarcloud.top/202502130918493.png"/></td>
+        <td><img src="http://img.astarcloud.top/202502130920698.png"/></td>
     </tr>
     <tr>
-        <td><img src="./demo/danxuan.png"/></td>
-        <td><img src="./demo/tiankongti.png"/></td>
+        <td><img src="http://img.astarcloud.top/202502130918482.png"/></td>
+        <td><img src="http://img.astarcloud.top/202502130918498.png"/></td>
     </tr>
 </table>
 
@@ -135,7 +135,7 @@ docker-compose up -d
         <td>QQ</td>
     </tr>
     <tr>
-        <td><img src="./demo/WX.png"/></td>
-        <td><img src="./demo/QQ.png"/></td>
+        <td><img src="http://img.astarcloud.top/202502130918503.png"/></td>
+        <td><img src="http://img.astarcloud.top/202502130918490.png"/></td>
     </tr>
 </table>
